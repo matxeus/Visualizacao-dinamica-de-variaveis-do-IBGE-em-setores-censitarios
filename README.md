@@ -1,4 +1,4 @@
-🌎 Mapeando Dados do IBGE com Folium: Visualização Dinâmica de Setores Censitários! 📊🗺️
+# 🌎 Mapeando Dados do IBGE com Folium: Visualização Dinâmica de Setores Censitários! 📊🗺️
 
 Nos últimos dias, trabalhei para coletar dados do IBGE por setor censitário para o projeto Water mAIsure. O intuito é estudar as relações de variáveis socioeconômicas com a fraude de água. 
 
